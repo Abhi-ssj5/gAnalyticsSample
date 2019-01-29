@@ -1,0 +1,6 @@
+framework module Pods_gAnalyticSampleTests {
+  umbrella header "Pods-gAnalyticSampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
